@@ -1,0 +1,187 @@
+Current Date: Feb 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: f f
+Age: 43
+Location: ghgf
+Contact: rr
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2014
+Return Date: Jan 1, 2014 = Days: 0
+Full Name: aaType First Name Here Type Last Naaaame Here
+Age: 43
+Location: Typvvxce Complete Address Here
+Contact: Type 88Contact Number Here
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Aug 8, 2020
+ 
+Pick up Date: Aug 1, 2014
+Return Date: Aug 5, 2014 = Days: 4
+Full Name: Angel William
+Age: 50
+Location: UMS
+Contact: 0
+Car: Van-2009
+Total Rent Price: 2000.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: cType First Name Here Type Last cName Here
+Age: 43
+Location: Type Complsete Address Here
+Contact: Type Contact2 Number Here
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Angel William
+Age: 43
+Location: UMS
+Contact: 999
+Car: Pick-up-2017
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Angel William
+Age: 43
+Location: UMS
+Contact: 999
+Car: Pick-up-2017
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Angel William
+Age: 43
+Location: UMS
+Contact: 999
+Car: Van-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Angel William
+Age: 43
+Location: UMS
+Contact: 999
+Car: Van-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Angel William
+Age: 43
+Location: UMS
+Contact: 999
+Car: Van-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First Name Hereaa aaType Last Name Here
+Age: 43
+Location: aype Complete Address Here
+Contact: Typ444e Contact Number Here
+Car: Hacthback-2015
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: a a
+Age: 43
+Location: v
+Contact: Type Contact Number Her77e
+Car: Van-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: a a
+Age: 43
+Location: v
+Contact: Type Contact Number Her77e
+Car: Hacthback-2015
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First Name Hereaa Type Last Name Hereaa
+Age: 43
+Location: aType Complete Address Here
+Contact: Ty99pe Contact Number Here
+Car: Van-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First Name Hereaa Type Last Name Hereaa
+Age: 43
+Location: aType Complete Address Here
+Contact: Ty99pe Contact Number Here
+Car: Sedan-2016
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First Name Hereaa Type Last Name Herea
+Age: 43
+Location: aaType Complete Address Here
+Contact: 55
+Car: Sedan-2016
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First Name Herea Type Last Name Herea
+Age: 43
+Location: Type Coamplete Address Here
+Contact: Type Contact 444Number Here
+Car: Sedan-2016
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Aug 7, 2020
+ 
+Pick up Date: Aug 11, 2020
+Return Date: Aug 13, 2020 = Days: 2
+Full Name: Angel Will
+Age: 22
+Location: UMS
+Contact: 0109499911
+Car: Pick-up-2017
+Total Rent Price: 1400.00 
+--------------------------------------------------
